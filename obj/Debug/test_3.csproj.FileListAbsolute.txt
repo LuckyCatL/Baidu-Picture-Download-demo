@@ -1,0 +1,13 @@
+C:\vb.net测试项目\test_3\obj\Debug\test_3.csprojAssemblyReference.cache
+C:\vb.net测试项目\test_3\obj\Debug\test_3.Properties.Resources.resources
+C:\vb.net测试项目\test_3\obj\Debug\test_3.csproj.GenerateResource.cache
+C:\vb.net测试项目\test_3\obj\Debug\test_3.csproj.CoreCompileInputs.cache
+C:\vb.net测试项目\test_3\bin\Debug\下载器.exe.config
+C:\vb.net测试项目\test_3\bin\Debug\下载器.exe
+C:\vb.net测试项目\test_3\bin\Debug\下载器.pdb
+C:\vb.net测试项目\test_3\obj\Debug\test_3.BaiduSpider.resources
+C:\vb.net测试项目\test_3\obj\Debug\下载器.exe
+C:\vb.net测试项目\test_3\obj\Debug\下载器.pdb
+C:\vb.net测试项目\test_3\bin\Debug\Newtonsoft.Json.dll
+C:\vb.net测试项目\test_3\bin\Debug\Newtonsoft.Json.xml
+C:\vb.net测试项目\test_3\obj\Debug\test_3.csproj.CopyComplete
